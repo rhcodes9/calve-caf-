@@ -1,4 +1,4 @@
-# ☕ Brew Haven Café Website
+# ☕ Brew Calve Café Website
 
 A practice front-end website project for a café shop.
 
